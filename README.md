@@ -13,8 +13,8 @@
 </br>
 
 <a href="https://github.com/HBMods2"><img title="Author" src="https://img.shields.io/badge/Author-HBMods-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/HBMods2/HBWABOTMD"><img title="Stars" src="https://img.shields.io/github/stars/HBMods2/HBWABOT MD?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/HBMods2/HBWABOTMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HBMods1/Herbert?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/HBMods2/HBWABOTMD"><img title="Stars" src="https://img.shields.io/github/stars/HBMods2/HBWABOTMD?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/HBMods2/HBWABOTMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HBMods2/HBWABOTMD?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/HBMods2/HBWABOTMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HBMods2/HBWABOTMD?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 ---
