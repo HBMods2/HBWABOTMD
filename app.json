@@ -1,0 +1,182 @@
+{
+    "name": "HBWABOT",
+    "description": "whatsapp md bot build with nodejs",
+    "repository": "https://github.com/HBMods2/HBWABOTMD",
+    "logo": "https://i.imgur.com/Wxlc2o2.jpg",
+    "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+    "env": {
+  
+"WELCOME_AND_GOODBYE" :{
+    "description" : "Off i duh chuan false tih hi type rawh",
+    "required" : true,
+  "value" : "true"
+    },
+  
+        "AUTO_BIO" :{
+    "description" : "Off i duh chuan false tiin type rawh",
+    "required" : true,
+  "value" : "true"
+    },
+                "INBOXBLOCK" :{
+    "description" : "On i duh chuan true tiin type rawh",
+    "required" : true,
+  "value" : "false"
+    },
+        
+                        "ANTIBAD" :{
+    "description" : "On i duh chuan true tiin type rawh",
+    "required" : true,
+  "value" : "false"
+    },
+   
+                                "ANTIVIEWONCE" :{
+    "description" : "On i duh chuan true tikn type rawh",
+    "required" : true,
+  "value" : "false"
+    },
+       
+                                        "ANTILINK" :{
+    "description" : "On i duh chuan true tiin type rawh",
+    "required" : true,
+  "value" : "false"
+    },
+        
+"GROUP_ONLY_MSG" :{
+    "description" : "Group ah chauh hman theih anih thu i duh danin type rawh",
+    "required" : true,
+  "value" : "*Sorry... Bot Is Only Work In Group*\n\n*https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf*"
+    },
+        
+        "WELCOME_MSG" :{
+    "description" : "Welcome msg i duh ang type rawh",
+    "required" : true,
+  "value" : "*HELLO WELCOME TO OUR GROUP*"
+    },
+  
+                "BYE_MSG" :{
+    "description" : "Thlah na msg i duh ang type rawh",
+    "required" : true,
+  "value" : "*BYE BRO*"
+    },
+        
+        "ALIVE_MSG" :{
+    "description" : "Alive msg i duh ang type rawh",
+    "required" : true,
+  "value" : "*IM ALIVE NOW*"
+    },
+        
+"CALL_BLOCK" :{
+    "description" : "On i duh chuan true tiin type rawh",
+    "required" : true,
+  "value" : "false"
+    },
+      
+"AUTO_BLOCK212" :{
+    "description" : "On i duh chuan true tiin type rawh",
+    "required" : true,
+  "value" : "false"
+    },
+      
+"onlygroup" :{
+    "description" : "On i duh chuan true tiin type rawh",
+    "required" : true,
+  "value" : "false"
+    },
+    
+"AUTO_REACT" :{
+    "description" : "Off i duh chuan false tiin type rawh",
+    "required" : true,
+  "value" : "true"
+    },
+      
+"OWNER_REACT_EMOJI" :{
+    "description" : "Emoji i duh ang tak kha oakhat dah rawh",
+    "required" : true,
+  "value" : "🫡"
+    },
+      
+"REACT_NUMBER" :{
+    "description" : "i react tur number type rawh",
+    "required" : true,
+  "value" : "918416093656"
+    },
+      
+"OWNER_NUMBER" :{
+    "description" : "Owner number type rawh",
+    "required" : true,
+  "value" : "918416093656"
+    },
+      
+"OWNER_NUMBER2" :{
+    "description" : "I number pahnihna type rawh",
+    "required" : true,
+  "value" : "918416093656"
+    },
+    
+"BOT_NAME" :{
+    "description" : "Bot hming",
+    "required" : true,
+  "value" : "HBWABOT"
+    },
+      
+"OWNER_NAME" :{
+    "description" : "OWNER hming",
+    "required" : true,
+  "value" : "HBMods"
+    },
+      
+"GROUP_LINK" :{
+    "description" : "GROUP LINK",
+    "required" : true,
+  "value" : "https://chat.whatsapp.com/ECtguf6pmRR1eXyeQ76jvO"
+},
+      
+  "GROUP_LINK2" :{
+    "description" : "GROUP LINK 2",
+    "required" : true,
+  "value" : "https://chat.whatsapp.com/ECtguf6pmRR1eXyeQ76jvO"
+},
+    
+"PACK_NAME" :{
+    "description" : "I duh ang hming type rawh",
+    "required" : true,
+  "value" : "Siamted by"
+},
+  
+"CAP_NAME" :{
+    "description" : "I duh ang hming type rawh",
+    "required" : true,
+  "value" : "*Made By HBWABOT*"
+},
+    
+"IMG_URL" :{
+    "description" : "I thlalak kha a url in siam la a hnuai ah hian dah rawh",
+    "required" : true,
+  "value" : "https://telegra.ph/file/02198fb0bb0d7bcbd2a0c.jpg"
+},
+  
+  "YT_URL" :{
+    "description" : "YouTube channel i neih chuan a url dah la",
+    "required" : true,
+    "value" :"https://youtu.be/sCYURia3Y9E"
+    }
+    },
+  
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      },
+      {
+        "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      },
+      {
+        "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      }
+    ],
+     "formation": {
+          "worker": {
+              "quantity": 1,
+              "size": "free"
+          }
+      }
+  }
