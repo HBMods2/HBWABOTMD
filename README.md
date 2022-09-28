@@ -4,30 +4,21 @@
 
 ## HBMods
 
-> <a href="https://youtube.com/c/HBSuantakOfficialChannel"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/HBSuantakOfficialChannel" /><br>
+> <a href="https://youtube.com/c/HBSuantakOfficialChannel"><img src="https://img.shields.io/badge/HBMods-Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/HBSuantakOfficialChannel" /><br>
 
-> He WhatsApp Bot siam thu chu [Herbert Sauntak](https://www.instagram.com/herbert_suantak2) ani 
+* He WhatsApp Bot siam thu chu [Herbert Sauntak](https://www.instagram.com/herbert_suantak2) ani 
 
-> Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
-
-</br>
-
-<a href="https://github.com/HBMods2"><img title="Author" src="https://img.shields.io/badge/Author-HBMods-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/HBMods2/HBWABOTMD"><img title="Stars" src="https://img.shields.io/github/stars/HBMods2/HBWABOTMD?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/HBMods2/HBWABOTMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HBMods2/HBWABOTMD?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/HBMods2/HBWABOTMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HBMods2/HBWABOTMD?label=watchers&color=54aeff&style=flat-square" /></a> <br>
-
----
+* Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
 <!-- Requirements -->
 <b><details><summary>Requirements</summary></b>
-* Some Text Editor
-* [Node JS](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFMPEG](https://ffmpeg.org/download.html)
+* Qr code link luh nan hian i phone a tang ni lo in, mi dang phone a tangin emaw i laptop atangin Qr-Code link ah hian lut la
+* Chuan i WhatsApp a lut la Settings luh na bul ah khan, WhatsApp link device a tangin Qr-Code chu i scan thei ang
+* [GBWhatsApp hmang duh ve hrim hrim tan](https://herbert70.blogspot.com/2022/04/download-gbwhatsapp-last-version-update.html)
+* Heroku Account ila nei loh chuan [hmet rawh](https://signup.heroku.com/login)
   
 ```bash
-Add FFmpeg to PATH environment variable
+https://dashboard.heroku.com/new?template=
 ```
 </details>
 
@@ -43,16 +34,20 @@ Add FFmpeg to PATH environment variable
 
 </details>
 
+</br>
+
+<a href="https://github.com/HBMods2"><img title="Author" src="https://img.shields.io/badge/Author-HBMods-blue.svg?color=FFA161FF&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/HBMods2/HBWABOTMD"><img title="Stars" src="https://img.shields.io/github/stars/HBMods2/HBWABOTMD?color=FFA161FF&style=flat-square" /></a>
+<a href="https://github.com/HBMods2/HBWABOTMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HBMods2/HBWABOTMD?color=FFA161FF&style=flat-square" /></a>
+<a href="https://github.com/HBMods2/HBWABOTMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HBMods2/HBWABOTMD?label=watchers&color=FFA161FF&style=flat-square" /></a> <br>
+
+---
 
 </details>
 
+</br>
 
-<!-- 24hrs-->
-<b><details><summary>For 24 Hours Activation</summary></b>
-
-```bash
-npm start
-```
+<a href="https://chat.whatsapp.com/ECtguf6pmRR1eXyeQ76jvO"><img title="HBWABot" src="https://img.shields.io/badge/WhatsApp-Group-blue.svg?color=FFA161FF&style=for-the-badge&logo=whatsapp" /></a> 
 
 </details>
 
