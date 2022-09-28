@@ -36,7 +36,7 @@ https://dashboard.heroku.com/new?template=
 <a href="https://github.com/HBMods2/HBWABOTMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HBMods2/HBWABOTMD?color=FFA161FF&style=flat-square" /></a>
 <a href="https://github.com/HBMods2/HBWABOTMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HBMods2/HBWABOTMD?label=watchers&color=FFA161FF&style=flat-square" /></a> <br>
 <a href="https://chat.whatsapp.com/ECtguf6pmRR1eXyeQ76jvO"><img title="HBWABot" src="https://img.shields.io/badge/WhatsApp-Group-blue.svg?color=FFA161FF&style=for-the-badge&logo=whatsapp" /></a> 
-<a href="https://youtube.com/c/HBSuantakOfficialChannel"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/HBSuantakOfficialChannel" /><br>
+<a href="https://youtube.com/c/HBSuantakOfficialChannel"><img src="https://img.shields.io/badge/HBMods-Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/HBSuantakOfficialChannel" /><br>
 </details>
 
 ----
